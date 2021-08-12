@@ -1,7 +1,7 @@
 /*
  * @Description: This file is made for
  * @Date: 2021-08-11 15:30:25
- * @LastEditTime: 2021-08-11 16:26:11
+ * @LastEditTime: 2021-08-11 19:47:09
  * @Author: LeongD
  * @LastEditors: LeongD
  */
@@ -47,5 +47,10 @@ let arr = new ArrayList([stuOne, stuTwo, stuThree]);
 // console.log(`After-remove 2 `, arr )
 // console.log(`remove stuTwo`, arr.remove(stuTwo));
 let RemoveStuTwo = arr.remove(stuTwo);
+
 console.log(`RemoveStuTwo Got`, RemoveStuTwo);
+
 console.log(`After-remove stuTwo`, arr);
+
+
+ 
